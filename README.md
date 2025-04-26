@@ -1,5 +1,5 @@
 ## Overview
-
+### Dynamic Quotes: Based on detected facial expressions, different motivational or funny quotes are displayed in real-time.
 ![Dashboard Screenshot](images/Screenshot%202025-04-26%20at%208.38.29 PM.png)
 ![Dashboard Screenshot](images/Screenshot%202025-04-26%20at%208.38.39 PM.png)
 ![Dashboard Screenshot](images/Screenshot%202025-04-26%20at%208.38.57 PM.png)
@@ -48,7 +48,7 @@ await faceapi.nets.tinyFaceDetector.loadFromUri('/models');
 
 Additionally, the project features:
 
-### Dynamic Quotes: Based on detected facial expressions, different motivational or funny quotes are displayed in real-time.
+
 
 ### Bootstrap Styling: The entire application UI is styled using Bootstrap 5 for responsiveness and modern design aesthetics.
 
